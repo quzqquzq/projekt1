@@ -1,0 +1,26 @@
+{
+  "name": "auth0-supabase",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.15",
+    "@mui/material": "^5.14.15",
+    "@mui/x-data-grid": "^6.17.0",
+    "@supabase/supabase-js": "^2.21.0",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "jsonwebtoken": "^9.0.0",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
